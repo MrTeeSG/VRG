@@ -8,7 +8,13 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        'vrg-green': '#166534',  // Màu xanh chủ đạo của VRG
+        'vrg-green': '#166534',
+      },
+      backgroundColor: {
+        'vrg-green': '#166534',
+      },
+      textColor: {
+        'vrg-green': '#166534',
       },
     },
   },
